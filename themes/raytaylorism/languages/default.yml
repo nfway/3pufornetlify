@@ -1,0 +1,47 @@
+categories: 分类
+search: Search
+tags: Tags
+tagcloud: Tag Cloud
+prev: "Prev: %s"
+next: "Next: %s"
+comment: Comments
+archive_a: Archives
+archive_b: "Archives: %s"
+page: Page %d
+recent_posts: Recent Posts
+blogroll: 感谢
+returntop: Return to top
+readmore: READ MORE
+floatmenu: Menu
+reviews: 乐评
+photos: 照片
+
+menu:
+    home: 首页
+    archives: 归档
+    category: 分类
+    Albums: 三溥的音乐
+    about: 关于
+    reviews: 乐评
+    photos: 照片
+    search: Search
+social: Built by
+powered:
+    first: "Blog powered by"
+    last: "| Theme"
+current_page: 当前页面
+page_name:
+    categories: (分类)
+    tags: (Tags)
+    archives: (Archives)
+reading:
+    score: 评分
+    comment: Comment
+about:
+    about: About
+    skills: Skills
+    works: Works & Projects
+construction: Page under construction...
+go_back_home: Go back home
+no_title: No title
+side_nav_paper: "%d"

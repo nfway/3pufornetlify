@@ -1,0 +1,51 @@
+{
+    "define": {
+	    "readed": "专辑",
+        "reading": "单曲",
+        "wanted": "演出"
+    },
+    "contents": {
+        "readed": [{
+            "title": "梦",
+            "cover": "/img/dream.jpg",
+            "review": "出版：2006；已绝版",
+            "score": "8.9",
+            "doubanLink": "https://music.douban.com/subject/2082946/"
+        }, {
+            "title": "东西",
+            "cover": "/img/east-west.jpg",
+            "review": "出版：2013",
+            "score": "8.7",
+            "doubanLink": "https://music.douban.com/subject/25763140/"
+        }, {
+            "title": "Darkness Over Depth",
+            "cover": "/img/darkness.jpg",
+            "review": "出版：2003",
+            "score": "8.7",
+            "doubanLink": "https://music.douban.com/subject/1823288/"
+        }],
+		
+		"reading": [{
+            "title": "幻",
+            "cover": "/img/huan.jpg",
+            "review": "",
+            "score": "9.0",
+            "doubanLink": "https://music.douban.com/subject/2044175/"
+        },{
+            "title": "我们的太阳III",
+            "cover": "/img/sun-3.jpg",
+            "review": "",
+            "score": "9.0",
+            "doubanLink": "https://music.douban.com/subject/10726716/"
+        }
+		],
+
+        "wanted": [{
+            "title": "2018巡演（北京、上海、广州）",
+            "cover": "/img/yanchu.jpg",
+            "review": "",
+            "score": "10",
+            "doubanLink": "https://music.douban.com/musician/124728/"
+        }]
+    }
+}
